@@ -18,6 +18,9 @@ Generar una tabla para ser almacenada en una base de datos a partir de informaci
 Actividades
 
 Se genero el script: Primer pre entrega.py que se encuentra en el repositorio
+
 Se creo la tabla en Redshift
+
+
 
 ![redshift primer entrega](https://github.com/user-attachments/assets/19dde5f9-cd37-4e17-8067-34a10c3589b0)
