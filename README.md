@@ -7,6 +7,9 @@ Repositorio actividades curso Data Engineering Flex
 Importante: para ejecutar el proyecto se debe crear un archivo .env en la carpeta raiz del mismo. Y acceder con sus propias credenciales a la base de datos.
 
 
+
+
+
 Entregable 1
 
 Objetivos generales
@@ -15,11 +18,18 @@ El script debería extraer datos desde una API en formato JSON para ser manipula
 Generar una tabla para ser almacenada en una base de datos a partir de información una API.
 
 
+
+
+
 Actividades
 
 Se genero el script: Primer pre entrega.py que se encuentra en el repositorio
 
 Se creo la tabla en Redshift
+
+
+
+
 
 
 
