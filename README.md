@@ -4,8 +4,6 @@ Data Engineering Flex
 
 Repositorio actividades curso Data Engineering Flex
 
-Importante: para ejecutar el proyecto se debe crear un archivo .env en la carpeta raiz del mismo. Y acceder con sus propias credenciales a la base de datos.
-
 
 
 
@@ -60,6 +58,8 @@ for e in lista:
 
 
 ![redshift primer entrega](https://github.com/user-attachments/assets/19dde5f9-cd37-4e17-8067-34a10c3589b0)
+
+
 
 
 
